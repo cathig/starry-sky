@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 30 09:54:34 2020
-
-@author: Cathig
-"""
 # Starry Sky
 Welcome to Starry Sky!
 
